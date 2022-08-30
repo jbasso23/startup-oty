@@ -1,0 +1,30 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background-image: url("header.jpg");
+  background-position: center;
+}
+
+.btn {
+  background-color: orange;
+  border-color: orange;
+  border-radius: 6px;
+}
+
+h1,.btn {
+  color: white;
+  text-transform:uppercase;
+}
+
+h1 {
+  text-shadow: 4px 4px rgba(253, 253, 253, 0.615);
+}
+
+.row {
+  height:33vh;
+}
